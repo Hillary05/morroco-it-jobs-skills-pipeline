@@ -1,0 +1,6 @@
+venv/
+data/raw_data/
+data/clean_data/
+__pycache__/
+.dvc/
+*.csv
