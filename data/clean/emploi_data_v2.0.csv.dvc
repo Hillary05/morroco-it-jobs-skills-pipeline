@@ -1,0 +1,5 @@
+outs:
+- md5: 5431e1c46597e2b170717cec24fc6706
+  size: 2204
+  hash: md5
+  path: emploi_data_v2.0.csv
