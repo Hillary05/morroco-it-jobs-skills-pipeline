@@ -1,0 +1,5 @@
+outs:
+- md5: 004688f257d9545d67326ba226f4728b
+  size: 13230
+  hash: md5
+  path: data-jobs_v1.0.csv
