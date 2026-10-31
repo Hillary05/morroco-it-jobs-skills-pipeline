@@ -164,4 +164,4 @@ MIT
 
 ## Author
 
-**Hillary KEREKOU**: engineering student (Data Science & AI). [LinkedIn]https://www.linkedin.com/in/kerekou-hillary-winny-2a0859207/ · [GitHub](https://github.com/Hillary05)
+**Hillary KEREKOU**: engineering student (Data Science & AI). [LinkedIn](https://www.linkedin.com/in/kerekou-hillary-winny-2a0859207/) · [GitHub](https://github.com/Hillary05)
